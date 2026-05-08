@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414253889918",
+    "project_id": "societyconnect-c8856",
+    "storage_bucket": "societyconnect-c8856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414253889918:android:9efaad98e727b2ce3c1b2f",
+        "android_client_info": {
+          "package_name": "com.sm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7j40MaPp7WItx1TU_mGSghscLEeAKfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
